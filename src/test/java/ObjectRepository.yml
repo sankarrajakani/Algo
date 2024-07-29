@@ -1,0 +1,5 @@
+Home Page:
+Login:
+   WorkEmailTextBoxXPATH: "//input[@id='login-email-input']"
+   PasswordTextBoxXPATH: "//input[@id='login-password-input']"
+   LogInButtonXPATH: "//button[contains(.,'Log In')]"
